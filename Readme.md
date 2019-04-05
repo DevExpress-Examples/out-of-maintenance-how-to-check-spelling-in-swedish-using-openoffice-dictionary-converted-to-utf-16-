@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/DXSpellChecker_Sample_UTF16/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DXSpellChecker_Sample_UTF16/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/DXSpellChecker_Sample_UTF16/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXSpellChecker_Sample_UTF16/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/DXSpellChecker_Sample_UTF16/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXSpellChecker_Sample_UTF16/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to check spelling in Swedish using OpenOffice dictionary converted to UTF-16
